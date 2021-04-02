@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alinadmitrakova
+- 👋 Hi, I’m @alinadmitrakova. I love web dev.
 - 👀 I’m interested in java backend
 - 🌱 I’m currently learning java
 
